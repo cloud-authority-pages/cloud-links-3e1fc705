@@ -1,15 +1,25 @@
-# robots.txt
-# Policy: ALLOW ALL crawlers (search engines, SEO tools, AI bots)
-# Clients verify backlinks via Ahrefs/Semrush/Majestic — blocking these defeats the purpose
-# Only pure bulk training harvesters with zero citation/indexing value are blocked
-# --- DEFAULT: ALLOW ALL CRAWLERS ---
 User-agent: *
 Allow: /
-# --- PURE TRAINING HARVESTERS ONLY (blocked — no citation or SEO value) ---
-User-agent: CCBot
-Disallow: /
-User-agent: Diffbot
-Disallow: /
-User-agent: Bytespider
-Disallow: /
-Sitemap: https://pub-2f92044261534bbcbe485687cc521feb.r2.dev/campaigns/3e1fc705/html/mia-s-angling-scuba/sitemap.xml
+
+Sitemap: https://cloud-authority-pages.github.io/cloud-links-3e1fc705/bat/sitemap.xml
+
+https://cloud-authority-pages.github.io/cloud-links-3e1fc705/bat/3e1fc705--bat-valour-6500.html
+https://cloud-links-3e1fc705.netlify.app/bat/3e1fc705--bat-rod.html
+https://authority.gitlab.io/cloud-links-3e1fc705/bat/3e1fc705--bat-valour-6500-reel.html
+https://cloud-links.nyc3.digitaloceanspaces.com/bat/3e1fc705/bat-valour-reel.html
+https://cab-r2-proxy.cabcdn.workers.dev/bat/bat-valour-6500-sandton-129b9b/bat-valour-6500-review.html
+https://pub-4b4f2d6453204a1db2dc8212eadb68ba.r2.dev/bat/3e1fc705/bat-valour-6500-price.html
+https://cloud-links-3e1fc705.vercel.app/bat/3e1fc705--bat-valour-6500-buy
+https://cloud-links.s3.us-south.cloud-object-storage.appdomain.cloud/bat/3e1fc705/bat-valour-6500-specs.html
+https://cloud-links.neocities.org/bat/bat-valour-6500-sandton-129b9b--bat-valour-6500-features.html
+https://cloud-links-3e1fc705-6623ec.surge.sh/bat/3e1fc705--bat-valour-6500-casting.html
+https://cloudlinks.fsn1.your-objectstorage.com/bat/3e1fc705/bat-valour-6500-saltwater.html
+https://cloud-links.s3.filebase.io/bat/3e1fc705/bat-valour-6500-drag.html
+https://cloud-links.t3.tigrisbucket.io/bat/3e1fc705/bat-valour-6500-bearings.html
+https://cloud-links.sos-ch-dk-2.exo.io/bat/3e1fc705/bat-valour-6500-gear-ratio.html
+https://cloud-links.cellar-c2.services.clever-cloud.com/bat/3e1fc705/bat-valour-6500-spool.html
+https://cloud-links.s3.ap-southeast-2.onidel.cloud/bat/3e1fc705/bat-valour-6500-line-capacity.html
+https://cloud-links.us-east-1.telnyxcloudstorage.com/bat/3e1fc705/bat-valour-6500-fishing-reel.html
+https://cloud-links.s3.eu-west-par.io.cloud.ovh.net/bat/3e1fc705/bat-valour-6500-setup.html
+https://object-storage.nz-por-1.catalystcloud.io/v1/AUTH_c332ce830ed4484498bccfc1d13947b3/cloud-links/bat/3e1fc705/bat-valour-6500-maintenance.html
+https://cloud-links.ap-southeast-mys1.oss.ips1cloud.com/bat/3e1fc705/bat-valour-6500-performance.html
